@@ -1,0 +1,113 @@
+            html{
+                font-family:sans-serif;
+            }
+            body{
+              
+                background-image:url("/images/sakura.jpg");
+                background-repeat:no-repeat;
+                background-size:cover;
+            }
+                #title{
+                    color:#41040e;
+                    background-color:#d3eeef24;
+                    opacity:0.8;
+                    display:block;
+                    text-align:center;
+                    margin-top:5px;
+                    padding:10px;
+                    
+                    margin-left:auto;
+                    margin-right:auto;
+                   
+                   
+                }
+                #newUser{
+                    width:40%;
+                    background:none;
+                    opacity:0.5;
+                    border: 0.5px solid #008e72;
+                }
+                #newDesc{
+                    width:80%;
+                    height:15%;
+                    background:none;
+                    opacity:0.5;
+                    border: 0.5px solid #008e72;
+                }
+                #create{
+                    border:1px solid #008e72;
+                    margin-top:10px;
+                    margin-left:auto;
+                    margin-right:auto;
+                    margin-bottom:10px;
+                    padding:5px;
+                    display:block;
+                    width:25%;
+                    
+                }
+                #tweetButton{
+                    background:none;
+                    cursor:pointer;
+                }
+                #random{
+                    display:block;
+                    margin-left:auto;
+                    margin-right:auto;
+                }
+                #messages{
+                    float:center;
+                    border:1px solid #008e72;
+                    margin-top:15px;
+                    margin-left:auto;
+                    margin-right:auto;
+                    padding:5px;
+                    width:30%;
+                }
+                #username{
+                    border:1.5px solid purple;
+                    display:block;
+                    background:white;
+                    margin-bottom:3px;
+                    cursor:pointer;
+                
+                }
+                .created{
+                    /* border:3px solid #fda6ff; */
+                    margin-bottom:3px;
+                    background-color:#fbdee3;
+                    padding:3px;
+                    opacity:0.7;
+                    
+                }
+                .written{
+                    /* border:3px solid #fda6ff; */
+                    background-color:#fbdee3;
+                    padding:3px;
+                    margin-bottom:3px;
+                    opacity:0.7;
+                }
+                .deleteButton{
+                    display:inline-block;
+                    cursor:pointer;
+                    /* background-color:white; */
+                    
+                    
+                }
+                .list{
+                    float:center;
+                    border:1px solid #008e72;
+                    margin-left:auto;
+                    margin-right:auto;
+                    margin-top:3px;
+                    margin-bottom:3px;
+                    padding:3px;
+                    width:95%;
+                    
+                    
+                }
+                #comeback{
+                    border:1px solid pink;
+                    background-color:white;
+                    margin-bottom:5px;    
+                }
+           
